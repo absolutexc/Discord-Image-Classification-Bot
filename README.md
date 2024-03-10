@@ -1,2 +1,26 @@
 # Discord-Image-Classification-Bot
 determines whether the weather is good
+aiohttp            3.8.5     
+aiosignal          1.3.1     
+async-timeout      4.0.3     
+attrs              23.1.0    
+certifi            2023.7.22 
+charset-normalizer 3.2.0     
+discord.py         2.3.2     
+distlib            0.3.7     
+filelock           3.13.0    
+frozenlist         1.4.0     
+idna               3.4       
+keras              2.15.0    
+multidict          6.0.4     
+numpy              1.24.4    
+pillow             10.2.0    
+pip                24.0
+pipenv             2023.10.24
+platformdirs       3.11.0
+py                 1.11.0
+requests           2.31.0
+setuptools         68.2.2
+urllib3            2.0.5
+virtualenv         20.24.6
+yarl               1.9.2
